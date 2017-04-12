@@ -1,10 +1,10 @@
 Introduction
 ============
 
-The 2D LibreCAD file ``sketch.dxf`` contains a static design for an extra long
-reamer/facer rod attachment for use with cargo bike head tubes or any other
-long head tube.  It is intended to work with the Park Tool HTR-1(B) head tube
-reamer/facer set.
+The 2D LibreCAD file ``long_reamer_facer.dxf`` contains a static design for an
+extra long reamer/facer rod attachment for use with cargo bike head tubes or
+any other long head tube.  It is intended to work with the Park Tool HTR-1(B)
+head tube reamer/facer set.
 
 Design Notes
 ============
