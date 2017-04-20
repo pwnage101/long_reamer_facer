@@ -32,11 +32,6 @@ The design was developed using LibreCAD 2.0.4 (for the drawing) and FreeCAD
 License
 =======
 
-Copyright © 2017 Troy Sankey <sankeytms at gmail dot com>
-
-This documentation describes Open Hardware and is licensed under the CERN OHL
-v1.2.  You may redistribute and modify this documentation under the terms of
-the CERN OHL v1.2 (http://ohwr.org/cernohl). This documentation is distributed
-WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY,
-SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.  Please see the CERN
-OHL v1.2 for applicable conditions.
+This is essentially a copy of the Park Tool HTR-1 shaft with a slight
+modification (longer ACME threaded section).  Therefore, I can't claim any
+ownership of the design, nor anybody else unaffiliated with Park Tool.
