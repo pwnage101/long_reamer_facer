@@ -18,6 +18,12 @@ Design Notes
 
 The design is currently a WORK IN PROGRESS.  It has not been tested.
 
+Materials
+=========
+
+* 3ft (or longer) length of ACME 5/8-8 steel or stainless rod.  This will do:
+  https://www.mcmaster.com/#98935a829
+
 Instructions
 ============
 
