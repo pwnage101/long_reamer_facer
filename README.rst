@@ -34,10 +34,12 @@ Instructions
 #) install cutter for turning while feeding towards the left.
 #) turn down a 27mm length from the end to ⌀11.11mm.
 #) install cutter for grooving:
+
    - side relief on both left and right sides.
    - 8° end relief
    - 0° side rake
    - 10° back rake
+
 #) groove a 5mm segment to ⌀8.85mm.  Make sure the step between the grooved
    ⌀8.85mm segment and stock diameter is faced.
 #) install cutter for turning while feeding towards the left.
